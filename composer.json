@@ -1,0 +1,29 @@
+{
+    "name": "daniel/toolsphp",
+    "description": "Herramientas de php",
+    "type": "project",
+    "require": {
+        "php": "^8.0",
+        "intervention/image": "^2.5",
+        "ext-simplexml": "*",
+        "ext-dom": "*",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-http": "*",
+        "ext-mbstring": "*",
+        "ext-exif": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DsmArmagedon",
+            "email": "daniel.r.sanchez.martinez@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
