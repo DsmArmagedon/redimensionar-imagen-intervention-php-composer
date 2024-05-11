@@ -3,15 +3,8 @@
     "description": "Herramientas de php",
     "type": "project",
     "require": {
-        "php": "^8.0",
-        "intervention/image": "^2.5",
-        "ext-simplexml": "*",
-        "ext-dom": "*",
-        "ext-json": "*",
-        "ext-curl": "*",
-        "ext-http": "*",
-        "ext-mbstring": "*",
-        "ext-exif": "*"
+        "php": "^8.2",
+        "intervention/image": "^2.7.2"
     },
     "license": "MIT",
     "authors": [
